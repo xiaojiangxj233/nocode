@@ -1,3 +1,4 @@
+中文 | [English](https://github.com/xiaojiangxj233/nocode/blob/master/README_EN.md)
 # 没有代码
 
 没有代码是编写安全可靠应用程序的最佳方法。什么都不写；也不部署。
