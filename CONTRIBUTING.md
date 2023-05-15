@@ -1,1 +1,5 @@
-All changes are welcome as long as no code is involved. If you run into any bugs, please file an issue and explain how that was even possible.
+欢迎所有的更改，只要没有涉及到代码。如果你遇到任何错误，请提交一个issue，并解释如何可能发生这种情况。
+
+
+
+
