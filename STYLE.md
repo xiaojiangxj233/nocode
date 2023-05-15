@@ -1,18 +1,19 @@
-# No Code Style Guide
+# 无代码编程风格指南
 
-All no code programs are the same, regardless of use case, any code you write is a liability.
+无论用例如何，所有的无代码程序都是相同的，你所写的任何代码都是一种负担。
 
-## File Extensions
+## 文件扩展名
 
-No code is not stored in files, but if you must, use the `.no` file extension.
+无代码不会存储在文件中，但如果非得这样做，可以使用 `.no` 文件扩展名。
 
 ```
 main.no
 ```
 
-## Linters
+## 代码检查工具
 
-There is only one way to write no code and the `du` command can help you identify any issues. 
+只有一种方法来编写无代码，`du` 命令可以帮助你识别任何问题。
+
 
 ```
 du -h main.no
@@ -22,22 +23,24 @@ du -h main.no
 0       main.no
 ```
 
-> The only valid code is no code.
+> 唯一有效的代码就是无代码。
 
-## Code Reviews
+## 代码审查
 
-The no code community has adopted the following conventions when reviewing code changes:
+无代码社区在审查代码更改时采用了以下约定：
 
-When the change contains no code additions or modifications:
+当更改不包含代码添加或修改时：
+
 
 ```
-LGTM # Looks Good To Me
+LGTM # 看起来不错
 ```
 
-When the change includes code additions or modifications:
+当更改包含代码添加或修改时：
 
 ```
 CIAL # Code Is A Liability
 ```
 
-> Change requests that fall into this category should be rejected immediately.
+> 属于这个类别的变更请求应立即被拒绝。
+
